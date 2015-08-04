@@ -8,7 +8,9 @@ import android.content.ContentResolver;
 
 /**
  * Created by monster on 18/7/15.
+ *
  */
+//Thi is my comment
 public class ContactsLookUpManager {
 
 }
